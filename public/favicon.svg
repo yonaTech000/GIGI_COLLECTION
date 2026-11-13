@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="GIGI COLLECTION">
+  <rect width="64" height="64" rx="16" fill="#111111"/>
+  <circle cx="32" cy="32" r="24" fill="#C49A45" opacity="0.18"/>
+  <path d="M18 20h12.5c7.5 0 13 5.5 13 13v1.5c0 7.5-5.5 13-13 13H18V20zm8 8v11h4.5c3.3 0 5.5-2.2 5.5-5.5V28H26zm-8-8v27h8V20h-8z" fill="#C49A45"/>
+  <text x="32" y="54" text-anchor="middle" font-size="10" font-family="Arial, sans-serif" font-weight="700" fill="#F8F3E8" letter-spacing="2">GC</text>
+</svg>
